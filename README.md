@@ -1,16 +1,5 @@
 # mock_tai2
 
-A new Flutter project.
+Mockup em flutter de tela de login para projeto da disciplina TAI II da Puc Minas BR
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![login_screenshot](https://user-images.githubusercontent.com/81333761/174105368-ea6c5c7e-590f-45ed-ba8f-b682fb49b36a.png)
